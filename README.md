@@ -1,2 +1,1 @@
-# Python_test
-Creating a python file
+print("Hello world")
