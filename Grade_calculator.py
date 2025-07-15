@@ -14,3 +14,4 @@ if maths_marks >= 40 and science_marks >= 40 and social_marks >= 40 :
     print("status: Pass")
 else:
     print("status: Fail")
+print("Added the line to check the pull request")
